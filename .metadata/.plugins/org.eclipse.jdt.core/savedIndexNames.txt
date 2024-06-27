@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\20231229_WebTotal\algorithm\.metadata\.plugins\org.eclipse.jdt.core
+155508.index
+867096231.index
+1865797976.index
