@@ -5,3 +5,6 @@ algorithm/.settings/
 algorithm/bin/
 algorithm/.classpath
 algorithm/.project
+algorithm/.DS_Store
+algorithm/src/.DS_Store
+algorithm/src/module-info.java
