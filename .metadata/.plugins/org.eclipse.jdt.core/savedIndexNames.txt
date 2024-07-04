@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/maenge/Desktop/git_algo/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-785442876.index
-3730146335.index
