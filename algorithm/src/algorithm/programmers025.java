@@ -9,7 +9,6 @@ public class programmers025 {
 		String answer=s.solution("Zbcdefg");
 		System.out.println(answer);
 	}
-
 }
 class Solution025 {
     public String solution(String s) {
